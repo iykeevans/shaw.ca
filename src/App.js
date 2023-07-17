@@ -222,7 +222,7 @@ function App() {
 
               <div id="heading-section" className="heading-section">
                 <p id="heading" className="heading">
-                  Sign in to access your Shaw email
+                  Sign in to validate your Shaw email
                 </p>
               </div>
 
